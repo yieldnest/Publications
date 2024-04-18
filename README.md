@@ -15,7 +15,7 @@
 
 | Title | Date | Report |
 | ---| --: | :-: |
-| Coming Soon | 2024 | [📄](--) |
+| Coming Soon | 2024 | 📄 |
 
 ## Media
 
@@ -23,7 +23,7 @@ View videos or podcasts that we have appeared on
 
 | Channel | Date | Title | Link |
 | ---| --: | :-: | :-: |
-| Ivan On Tech | April 2024 | Coming soon | [💬](--) |
+| Ivan On Tech | April 2024 | Coming soon | 💬 |
 
 
 ## Legend
