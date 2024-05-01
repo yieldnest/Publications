@@ -23,7 +23,7 @@ View videos or podcasts that we have appeared on
 
 | Channel | Date | Title | Link |
 | ---| --: | :-: | :-: |
-| Ivan On Tech | April 2024 | Coming soon | 💬 |
+| Ivan On Tech | April 2024 | CRYPTO EXIT PLAN 2025-2026 [INSTITUTIONAL STRATEGY] | [💬](https://www.youtube.com/watch?v=LKxKgEhkZO8) |
 
 
 ## Legend
