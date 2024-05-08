@@ -10,6 +10,7 @@
 | Title | Date | Report |
 | ---| --: | :-: |
 | [ChainSecurity - ynETH/ynLSD](audits/chainsecurity_yieldnest_protocol_audit.pdf) | April 2024 | [📄](audits/chainsecurity_yieldnest_protocol_audit.pdf) |
+| [Zokyo - ynETH/ynLSD](audits/zokyo_audit_yieldnest_May7th_2024.pdf) | May 2024 | [📄](audits/zokyo_audit_yieldnest_May7th_2024.pdf) |
 
 ## AVS Risk Reports
 
