@@ -1,5 +1,7 @@
 # Publications from YieldNest
 
+* View our [docs](https://docs.yieldnest.finance/)
+
 * [Audits](#audits)
 * [AVS Risk Reports](#avs-risk-reports)
 * [Media](#media)
@@ -33,4 +35,3 @@ View videos or podcasts that we have appeared on
 | --- | --- |
 | 💬 | Blog post or other social media |
 | 📄 | Security Assessment report |
-| 📰 | Whitepaper |
