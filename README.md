@@ -14,6 +14,7 @@
 | [ChainSecurity - ynETH/ynLSD](audits/chainsecurity_yieldnest_protocol_audit.pdf) | April 2024 | [📄](audits/chainsecurity_yieldnest_protocol_audit.pdf) |
 | [Zokyo - ynETH/ynLSD](audits/zokyo_audit_yieldnest_May7th_2024.pdf) | May 2024 | [📄](audits/zokyo_audit_yieldnest_May7th_2024.pdf) |
 | [ChainSecurity - ynLSD](audits/chainsecurity_yieldnest_protocol_audit_aug_2024.pdf) | August 2024 | [📄](audits/chainsecurity_yieldnest_protocol_audit_aug_2024.pdf) |
+| [Composable Security - ynBNBx/ynBTCk](audits/composable_security_yieldnest_jan_2025.pdf) | January 2025 | [📄](audits/composable_security_yieldnest_jan_2025.pdf) |
 
 ## AVS Risk Reports
 
