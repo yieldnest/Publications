@@ -11,8 +11,8 @@
 
 | Token | Year | Link to Reports |
 | ---| --: | :-: |
-| ynETHx | 2025 | 📄(tokens/ynETHx) |
-| ynBNBx | 2025 | 📄(tokens/ynBNBx) |
+| ynETHx | 2025 | 📄(Coming soon) |
+| ynBNBx | 2025 | 📄(Coming soon) |
 
 ## Audits
 
