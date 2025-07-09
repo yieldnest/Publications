@@ -6,7 +6,7 @@
 
 **Vault Asset**: ynBNBx
 **Vault Chain**: BNB Chain
-**Vault Type**: MAX LRT
+**Vault Type**: MAX
 **Vault Launch Date**: December 2024
 **Period Covered:** June 1 – June 30, 2025
 **Report Date:** July 3, 2025
@@ -15,7 +15,7 @@
 
 ## 1. Executive Summary
 
-[ynBNBx](https://app.yieldnest.finance/restake/ynBNBx) is YieldNest’s MAX LRT product deployed on BNB Chain. It auto-compounds BNB-linked yield through Binance-integrated and DeFi-native strategies, offering liquid exposure and BNB L1 settlement.
+[ynBNBx](https://app.yieldnest.finance/restake/ynBNBx) is YieldNest’s MAX product deployed on BNB Chain. It auto-compounds BNB-linked yield through Binance-integrated and DeFi-native strategies, offering liquid exposure and BNB L1 settlement.
 
 *Return accrues as the value of ynBNBx increases relative to BNB.*
 
