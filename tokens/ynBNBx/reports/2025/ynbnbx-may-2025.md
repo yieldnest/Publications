@@ -26,7 +26,6 @@
 | Metric                      | Value                           |
 | ------------------------- | ------------------------------- |
 | **Gross Yield Generated** | +12.95 BNB                     |
-| **Average APY (Est.)**    | 10.79% (annualized)             |
 | **TVL (Current)**         | ~22,379.81 BNB ($14.6M USD) |
 | **Buffer Allocation**     | ~20.33%                        |
 | **Point Eligibility** | Kernel, Astherus                |

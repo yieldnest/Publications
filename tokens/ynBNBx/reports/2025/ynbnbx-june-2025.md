@@ -26,7 +26,6 @@
 ### Monthtly Overview Report
 * Vault TVL: $14,427,771.31 (22,330.90 BNB)
 * Yield Generated: $40,076.96 (62.03 BNB)
-* Average APY: 9.57%
 * Buffer Allocation: 2.90M(19.70%)
 
 ![ynBNBx Vault Overview Report_3|690x388](https://i.imgur.com/RASDfWM.png)
