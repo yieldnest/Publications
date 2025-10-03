@@ -25,7 +25,7 @@ _Return accrues as the value of ynBNBx increases relative to BNB._
 
 ## 2. Vault Overview Report (as of October 1, 2025)
 
-### Monthtly Overview Report
+### Monthly Overview Report
 
 - Vault TVL: $32,281,240.47 (31,804.18 BNB)
 - Yield Generated: $549,753.44 (541.629 BNB)
@@ -68,7 +68,7 @@ _Return accrues as the value of ynBNBx increases relative to BNB._
 
 Audited Completed:
 
-- [Zokyo - Dec 2024 ](https://github.com/yieldnest/Publications/blob/main/audits/zokyo_audit_yieldnest_dec12th_2024.pdf)
+- [Zokyo - Dec 2024](https://github.com/yieldnest/Publications/blob/main/audits/zokyo_audit_yieldnest_dec12th_2024.pdf)
 - [Composable Security - Jan 2025](https://github.com/yieldnest/Publications/blob/main/audits/composable_security_yieldnest_jan_2025.pdf)
 - [Llamarisk - Jan 2025](https://www.llamarisk.com/research/asset-risk-ynbnbx)
 - [NFR Audits Feb 2025](https://github.com/yieldnest/Publications/blob/main/audits/yieldnest_max_vault_withdrawer_audit_report.pdf)
