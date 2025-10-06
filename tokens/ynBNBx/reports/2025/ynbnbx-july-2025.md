@@ -25,7 +25,7 @@ _Return accrues as the value of ynBNBx increases relative to BNB._
 
 ## 2. Vault Overview Report (as of August 4, 2025)
 
-### Montly Overview Report
+### Monthly Overview Report
 
 - Vault TVL: $28,317,842.43 (36,070.01 BNB)
 - Yield Generated: $54,715.67 (69.69 BNB)
