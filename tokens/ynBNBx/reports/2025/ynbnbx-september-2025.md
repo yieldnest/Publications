@@ -29,8 +29,9 @@ _Return accrues as the value of ynBNBx increases relative to BNB._
 
 - Vault TVL: $32,281,240.47 (31,804.18 BNB)
 - Yield Generated: $549,753.44 (541.629 BNB)
-- Last 7 Days APY: 22.86%
-- Last Month APY: 10.08%
+- APY stats from September:
+  - 2025-09-23 - 2025-09-30: 22.86%
+  - 2025-09-01 - 2025-09-30: 10.08%
 
 ---
 
