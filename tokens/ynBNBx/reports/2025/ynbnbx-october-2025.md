@@ -27,7 +27,7 @@ _Return accrues as the value of ynBNBx increases relative to BNB._
 
 ### Monthly Overview Report
 
-- Vault TVL: $31,843,407.18 (29,287.22 BNB)
+- Vault TVL: $33,805,100.41 (31,091.44 BNB)
 - Yield Generated: $144,880.06 (133.250 BNB)
 - APY stats from October:
   - 2025-10-24 - 2025-10-31: 5.22%
