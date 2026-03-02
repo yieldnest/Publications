@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 301.68 360.41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #0a2845;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="70.17" x2="301.68" y2="70.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#869ff6"/>
+      <stop offset="1" stop-color="#d4e0f6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="180.21" x2="301.68" y2="180.21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e4df3"/>
+      <stop offset="1" stop-color="#869ff6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="290.24" x2="301.68" y2="290.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5a32e"/>
+      <stop offset="1" stop-color="#e8c787"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-4" d="M311.68,97.14L10,150.34h0c0-50.4,36.19-93.52,85.82-102.27L311.68,10v87.14Z"/>
+        <path class="cls-4" d="M311.68,207.18l-215.86,38.06c-44.77,7.89-85.82-26.55-85.82-72.01h0s215.86-38.06,215.86-38.06c44.77-7.89,85.82,26.55,85.82,72.01h0Z"/>
+        <path class="cls-4" d="M225.86,332.35L10,370.41v-87.14s301.68-53.19,301.68-53.19h0c0,50.4-36.19,93.52-85.82,102.27Z"/>
+      </g>
+      <g>
+        <path class="cls-3" d="M301.68,87.14L0,140.34h0C0,89.94,36.19,46.81,85.82,38.06L301.68,0v87.14Z"/>
+        <path class="cls-2" d="M301.68,197.18l-215.86,38.06C41.05,243.14,0,208.69,0,163.23H0s215.86-38.06,215.86-38.06c44.77-7.89,85.82,26.55,85.82,72.01h0Z"/>
+        <path class="cls-1" d="M215.86,322.35L0,360.41v-87.14s301.68-53.19,301.68-53.19h0c0,50.4-36.19,93.52-85.82,102.27Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
