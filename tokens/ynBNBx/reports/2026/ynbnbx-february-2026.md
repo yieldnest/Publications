@@ -30,7 +30,7 @@ Starting in 2025 August, reward collection has been optimized to automatically c
 
 * Vault TVL: $546,981.23 (886.2 BNB)
 * Yield Generated: $0 (0 BNB)
-* APY stats from October:
+* APY stats from February:
     * 2026-02-21 - 2026-02-28: -0.93%
     * 2026-02-01 - 2026-02-28: 0.05%
 
